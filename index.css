@@ -1,6 +1,7 @@
 canvas{
     display: block;
     margin: 0 auto;
+    width: 75vmin;
 }
 h1{
     font-family: "Oswald";
