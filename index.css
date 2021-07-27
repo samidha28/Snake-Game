@@ -1,0 +1,28 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    font-family: "Oswald";
+    font-size: 65px;
+    text-align: center;
+    color: white;
+}  
+  body {
+      /*background: linear-gradient(-45deg, #000,#1f4037,  #23d5ab, #99f2c8);
+      animation: gradient 20s ease infinite;
+      background-color: #DDA033;*/
+      background: rgba(221, 160, 51, 0.6);
+  }
+  
+  /*@keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+  }*/
